@@ -1,7 +1,3 @@
 # elevator_controller
 
-The project is divided to 4 different tasks:
-1.The button processor
-2.The position processor
-3.The safety module
-4.The planning module
+The project description can be found at : http://www.it.uu.se/edu/course/homepage/pins/vt11/lab1
